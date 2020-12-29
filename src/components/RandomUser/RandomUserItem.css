@@ -1,0 +1,12 @@
+.random-user-item-wrapper {
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+    align-items: center;
+    justify-content: center;
+}
+
+.random-user-profile {
+    margin: 20px;
+    height: 75%;
+}

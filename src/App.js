@@ -1,9 +1,10 @@
-import Counter from './components/Counter/Counter';
+// import Counter from './components/Counter/Counter';
+import RandomUser from './components/RandomUser/RandomUser';
 
 function App() {
   return (
     <>
-      <Counter />
+      <RandomUser />
     </>
   );
 }
