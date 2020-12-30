@@ -1,6 +1,12 @@
 # React Apps for Beginners
 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://abhayvashokan.github.io/React-Apps-for-Beginners/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/AbhayVAshokan/React-Apps-for-Beginners/blob/main/LICENSE)
+
+
 The repository contains react app ideas for beginners.
+
+> Hosted at: [https://abhayvashokan.github.io/React-Apps-for-Beginners/](https://abhayvashokan.github.io/React-Apps-for-Beginners/)
 
 1. **Counter**: A simple counter application with two buttons, one to increment and the other to decrement.
 2. **RandomUser API**: Introduction to how to consume a RESTApi. This app uses a random user API which provides information about a random user. 

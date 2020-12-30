@@ -14,11 +14,11 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/counter" component={Counter} />
-          <Route exact path="/randomuser" component={RandomUser} />
-          <Route exact path="/calculator" component={Calculator} />
-          <Route exact path="/hackernews" component={hackernews} />
+          <Route exact path="/React-Apps-for-Beginners/" component={Home} />
+          <Route exact path="/React-Apps-for-Beginners/counter" component={Counter} />
+          <Route exact path="/React-Apps-for-Beginners/randomuser" component={RandomUser} />
+          <Route exact path="/React-Apps-for-Beginners/calculator" component={Calculator} />
+          <Route exact path="/React-Apps-for-Beginners/hackernews" component={hackernews} />
         </Switch>
       </Router>
     </>
