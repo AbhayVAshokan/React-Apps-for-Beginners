@@ -1,0 +1,38 @@
+.newsitem-wrapper {
+    background-color: rgb(255, 246, 242);
+    margin: 5px 20px;
+    padding: 10px 30px;
+    height: 75px;
+}
+
+.newsitem-wrapper .newsitem-url:hover {
+    color: transparent;
+}
+
+.newsitem-wrapper .newsitem-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 2rem;
+}
+
+.newsitem-main .newsitem-title {
+    font-size: 1.25rem;
+    color: black;
+}
+
+.newsitem-main .newsitem-time {
+    color: rgb(165, 165, 165);
+    font-size: 0.9rem;
+}
+
+.newsitem-wrapper .newsitem-details {
+    display: flex;
+    flex-direction: row;
+    color: rgb(165, 165, 165);
+    height: 1rem;
+}
+
+.newsitem-details .newsitem-score {
+    margin-left: 50px;
+}

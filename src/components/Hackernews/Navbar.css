@@ -1,0 +1,56 @@
+.hackernews-navbar {
+    width: 100vw;
+}
+
+.hackernews-navbar>.navbar-main {
+    display:flex;
+    flex-direction: row;
+    padding: 1vh 1vw;
+    background-color: rgb(255, 204, 180);
+}
+
+.hackernews-navbar .hackernews-logo {
+    height: 4vh;
+    margin-left: auto;
+}
+
+.hackernews-navbar .hackernews-search {
+    width: calc(min(75vw, 1000px));
+    height: 4vh;
+    margin: 0 1vw;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px;
+    outline: none;
+    border: none;
+}
+
+.hackernews-navbar .hackernews-search:focus {
+    outline: none;
+    border: none;
+}
+
+.hackernews-navbar .news-filters {
+    display: flex;
+    flex-direction: row;
+    padding: 1vh 2vw;
+    background-color: rgb(255, 174, 137);
+    height: calc(min(50px, 5vh));
+}
+
+.hackernews-navbar .dropdown .btn {
+    height: 30px;
+    font-size: 0.75rem;
+    margin: 0 0.5rem;
+    width: 100px;
+}
+
+.hackernews-navbar .filter-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    color: white;
+    font-weight: bold;
+    letter-spacing: -0.025rem;
+}

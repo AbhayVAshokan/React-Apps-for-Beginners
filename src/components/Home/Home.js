@@ -1,4 +1,4 @@
-import './Home.css';
+import "./Home.css";
 
 const Home = ({ history }) => {
     return (
@@ -7,6 +7,7 @@ const Home = ({ history }) => {
             <button className="home-btn btn btn-primary" onClick={() => history.push("/counter")}>Counter</button>
             <button className="home-btn btn btn-warning" onClick={() => history.push("/randomuser")}>RandomUser API</button>
             <button className="home-btn btn btn-success" onClick={() => history.push("/calculator")}>Calculator</button>
+            <button className="home-btn btn btn-danger" onClick={() => history.push("/hackernews")}>Hackernews</button>
         </div>
     );
 }
