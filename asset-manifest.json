@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Apps-for-Beginners/static/css/main.d72bac61.chunk.css",
+    "main.js": "/React-Apps-for-Beginners/static/js/main.a86aaf63.chunk.js",
+    "main.js.map": "/React-Apps-for-Beginners/static/js/main.a86aaf63.chunk.js.map",
+    "runtime-main.js": "/React-Apps-for-Beginners/static/js/runtime-main.22deb1a2.js",
+    "runtime-main.js.map": "/React-Apps-for-Beginners/static/js/runtime-main.22deb1a2.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/React-Apps-for-Beginners/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.707fd65e.chunk.js": "/React-Apps-for-Beginners/static/js/2.707fd65e.chunk.js",
+    "static/js/2.707fd65e.chunk.js.map": "/React-Apps-for-Beginners/static/js/2.707fd65e.chunk.js.map",
+    "static/js/3.c2ddeeb9.chunk.js": "/React-Apps-for-Beginners/static/js/3.c2ddeeb9.chunk.js",
+    "static/js/3.c2ddeeb9.chunk.js.map": "/React-Apps-for-Beginners/static/js/3.c2ddeeb9.chunk.js.map",
+    "index.html": "/React-Apps-for-Beginners/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/React-Apps-for-Beginners/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.d72bac61.chunk.css.map": "/React-Apps-for-Beginners/static/css/main.d72bac61.chunk.css.map",
+    "static/js/2.707fd65e.chunk.js.LICENSE.txt": "/React-Apps-for-Beginners/static/js/2.707fd65e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22deb1a2.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.707fd65e.chunk.js",
+    "static/css/main.d72bac61.chunk.css",
+    "static/js/main.a86aaf63.chunk.js"
+  ]
+}
