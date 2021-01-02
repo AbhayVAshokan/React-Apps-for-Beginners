@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/AbhayVAshokan/React-Apps-for-Beginners/blob/main/LICENSE)
 
 
-The repository contains react app ideas for beginners.
+The repository contains react app ideas for beginners. It was started with JSX, and later migrated to TypeScript. Take my tip: the best way to learn TypeScript is by migrating an existing JSX project.
 
 > Hosted at: [https://abhayvashokan.github.io/React-Apps-for-Beginners/](https://abhayvashokan.github.io/React-Apps-for-Beginners/)
 

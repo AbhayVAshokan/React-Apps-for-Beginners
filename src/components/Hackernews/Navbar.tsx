@@ -1,6 +1,13 @@
 import "./Navbar.css";
 
-const Navbar = (props) => {
+interface Props {
+  search: () => void,
+  fetchNews: () => void,
+  filter1: string,
+  setFilter1: (filter: string) => void
+}
+
+const Navbar: React.FunctionComponent<Props> = (props: Props) => {
   return (
     <nav className="hackernews-navbar">
       <div className="navbar-main">

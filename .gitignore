@@ -43,3 +43,4 @@ bin-release/
 
 
 .eslintcache
+src/react-app-env.d.ts

@@ -1,6 +1,11 @@
 import "./RandomUserItem.css";
 
-const RandomUserItem = (props) => {
+interface Props {
+    name: string,
+    picture: string
+}
+
+const RandomUserItem: React.FunctionComponent<Props> = (props: Props) => {
     return (
         <div className="random-user-item-wrapper">
             <h2 className="random-user-name">{props.name}</h2>
